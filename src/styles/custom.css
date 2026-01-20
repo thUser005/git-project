@@ -1,0 +1,6 @@
+body { background-color: #f8f9fb; }
+.sidebar { height: calc(100vh - 56px); overflow-y: auto; }
+.code-editor { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+.cursor-pointer { cursor: pointer; }
+.tree-item:hover { background-color: #f2f5f9; }
+.navbar-brand span { font-weight: 600; }
